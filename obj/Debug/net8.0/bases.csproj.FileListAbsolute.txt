@@ -1,0 +1,15 @@
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\bin\Debug\net8.0\bases.exe
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\bin\Debug\net8.0\bases.deps.json
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\bin\Debug\net8.0\bases.runtimeconfig.json
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\bin\Debug\net8.0\bases.dll
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\bin\Debug\net8.0\bases.pdb
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.AssemblyInfoInputs.cache
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.AssemblyInfo.cs
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.csproj.CoreCompileInputs.cache
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.sourcelink.json
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.dll
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\refint\bases.dll
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.pdb
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\bases.genruntimeconfig.cache
+C:\Users\Cipper\Desktop\Cipper\proyectos\backend\angularnet\csharp\bases\obj\Debug\net8.0\ref\bases.dll
